@@ -7,6 +7,7 @@ const HomeScreenPopup = () => (
 		content="Install this webapp by tapping on share and then add to homescreen."
 		position="top center"
 		flowing
+		basic
 	/>
 );
 
